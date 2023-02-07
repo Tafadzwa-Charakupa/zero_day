@@ -1,0 +1,7 @@
+[user]
+	name = Tafadzwa-Charakupa
+	email = charakupatafah2@gmail.com
+[core]
+	editor = emacs
+[init]
+	defaultBranch = main
