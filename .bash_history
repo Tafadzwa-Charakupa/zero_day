@@ -65,3 +65,60 @@ cd vagrant
 cd ..
 cd /home/vagrant
 ls
+git branch -a
+git config status
+git status
+git config --list
+git clone https://github.com/Tafadzwa-Charakupa/zero_day.git
+pwd
+ls
+cd zero_day
+git add .
+git commit -m "zero_zero"
+git push
+git push --set-upstream origin main
+git init
+git status
+touch README.md
+clear
+vim README.MD
+vim README.md
+git add .
+git commit -m "My first commit"
+git push
+git remote add origin https://github.com/Tafadzwa-Charakupa/zero_day.git
+git remote -v
+git push
+git push --set-upstream original main
+git push --set-upstream origin main 
+cat README.md
+ls
+cat README.MD
+cat README.md
+cd ..
+ls
+cat README.md
+git add .
+git commit -m "My first commit"
+git push
+git push --set-upstream origin main 
+git add .
+git commit -m "My first commit"
+git pust --set-upstream origin main
+git push --set-upstream origin main 
+git pull
+git pull origin main
+git push
+git push --set-upstream origin main
+git status
+clear
+git config --list
+git push --set-upstream origin main
+git fetch origin
+git merge origin main
+git pull origin main
+git pull origin main --allow-unrelated-histories
+git status
+cat README.md
+vim 
+exit
